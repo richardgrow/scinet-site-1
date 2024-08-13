@@ -43,9 +43,9 @@ The ARS SCINet Team developed a SCINet network solution that provides two levels
 **Pacific West Area**
 
 {: .table-list }
-| Burns, OR | Hilo, HI | Logan, UT |
-| Maricopa, AZ | Parlier, CA | Wenatchee, WA |
-| Salinas, CA |
+| Boise, ID | Burns, OR | Hilo, HI |
+| Logan, UT | Maricopa, AZ | Parlier, CA |
+| Salinas, CA | Wenatchee, WA |
 
 **Plains Area**
 
